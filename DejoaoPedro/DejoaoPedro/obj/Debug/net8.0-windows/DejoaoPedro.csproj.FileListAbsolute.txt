@@ -1,0 +1,16 @@
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\bin\Debug\net8.0-windows\DejoaoPedro.exe
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\bin\Debug\net8.0-windows\DejoaoPedro.deps.json
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\bin\Debug\net8.0-windows\DejoaoPedro.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\bin\Debug\net8.0-windows\DejoaoPedro.dll
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\bin\Debug\net8.0-windows\DejoaoPedro.pdb
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\obj\Debug\net8.0-windows\DejoaoPedro.Form1.resources
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\obj\Debug\net8.0-windows\DejoaoPedro.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\obj\Debug\net8.0-windows\DejoaoPedro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\obj\Debug\net8.0-windows\DejoaoPedro.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\obj\Debug\net8.0-windows\DejoaoPedro.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\obj\Debug\net8.0-windows\DejoaoPedro.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\obj\Debug\net8.0-windows\DejoaoPedro.dll
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\obj\Debug\net8.0-windows\refint\DejoaoPedro.dll
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\obj\Debug\net8.0-windows\DejoaoPedro.pdb
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\obj\Debug\net8.0-windows\DejoaoPedro.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\dejoao\DejoaoPedro\DejoaoPedro\obj\Debug\net8.0-windows\ref\DejoaoPedro.dll
